@@ -1,0 +1,11 @@
+{
+  "name": "r407-node-td1",
+  "version": "1.0.0",
+  "description": "Mon projet td1 node ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Da Silva",
+  "license": "ISC"
+}
